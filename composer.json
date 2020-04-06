@@ -14,7 +14,7 @@
             "email": "benmuriithi929@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"Bennito254\\": "src/"}
     }
