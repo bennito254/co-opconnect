@@ -2,6 +2,11 @@
     "name": "bennito254/co-opconnect",
     "description": "Wrapper for the Co-op Bank API",
     "type": "library",
+    "keywords": [
+        "co-op bank",
+        "co-op api",
+        "api"
+    ],
     "require": {
         "php": ">=7.1.0",
         "guzzlehttp/guzzle": "^6.5",
