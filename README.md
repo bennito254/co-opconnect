@@ -4,7 +4,6 @@ PHP wrapper for the Co-op Bank API at https://developer.co-opbank.co.ke:9443/sto
 Support for Production API will be coming soon!
 
 ## Installation
-! Package Gist is not set up yet. The following won't work.
 ```$cli
 composer require bennito254/co-opconnect
 ```
