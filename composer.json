@@ -1,0 +1,21 @@
+{
+    "name": "bennito254/co-opconnect",
+    "description": "Wrapper for the Co-op Bank API",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0",
+        "guzzlehttp/guzzle": "^6.5",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bennito254",
+            "email": "benmuriithi929@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Bennito254\\": "src/"}
+    }
+}
